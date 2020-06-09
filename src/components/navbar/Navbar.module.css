@@ -1,0 +1,52 @@
+.container{
+   /*  border: tomato solid 1px; */
+   
+}
+
+.inner{
+    max-width: 1500px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* .inner{
+    background-color: yellow;
+}
+.inner>div{
+    background-color: blueviolet;
+} */
+
+.navitem{
+    
+}
+
+.item{
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+    transition:  all 0.2s ease-in-out;
+}
+
+.item:hover{
+    background-color: black;
+    color: white;
+}
+
+.item{
+    display: inline-block;
+    padding: 40px 50px;
+}
+
+.logo{
+    margin-right: 50px ;
+}
+
+.icon{
+    margin-left: 50px ;
+}
+
+
