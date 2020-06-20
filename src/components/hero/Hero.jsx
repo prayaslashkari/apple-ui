@@ -107,7 +107,7 @@ const Hero = () => {
                 <div ref={el =>{leftleftref = el}} className={styles.left}>
                     <h1 className={styles.title}>Magic Runs in the family.</h1>
                     <h2 className={styles.subtitle}>Airpods deliver effortless, all-day audio on the go</h2>
-                    <a className={styles.linklink} href="#">Explore >></a>
+                    <a className={styles.linklink} href="#">Explore</a>
                 </div>
                 <div className={styles.right}>
                     <div className={styles.images1}>
